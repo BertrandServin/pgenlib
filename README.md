@@ -1,3 +1,10 @@
+This repo contains a repackaging of the plink Python API from :
+
+https://github.com/chrchang/plink-ng
+
+Below is the doc extracted from plink-ng source:
+
+
 Pgenlib Python API specification, v0.7
 ("import numpy as np" assumed)
 
